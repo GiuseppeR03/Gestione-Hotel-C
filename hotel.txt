@@ -1,0 +1,4 @@
+3
+HTL_RM Roma 150
+HTL_MI Milano 100
+HTL_NA Napoli 80
